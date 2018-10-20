@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_buzname">Business Name</string>
+    <string name="hint_regNo">CAC Registration Number</string>
+    <string name="hint_email">Email Address</string>
+    <string name="hint_phone">Business phone number</string>
+    <string name="hint_address">Business address</string>
+    <string name="hint_industry">Business industry</string>
+    <string name="hint_type">Business type</string>
+    <string name="hint_surname">Success</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_bvn">BVN</string>
+    <string name="hint_homeAddress">Home Address</string>
+    <string name="hint_occupation">Occupation</string>
+    <string name="hint_jobtitle">Job Title</string>
+    <string name="hint_idmeans">Means of ID</string>
+    <string name="hint_idnumber">ID no</string>
+    <string name="COI">Certificate of incorporation</string>
+    <string name="MAOA">Memorandum and Article of Association</string>
+    <string name="BR">Board Resolution</string>
+    <string name="formco7">Form C07 Particulars of Directors</string>
+    <string name="formco2">Form C02 Allotment of Shares</string>
+    <string name="OUB">Office Utility Bill</string>
+    <string name="hint_date">00/00/0000</string>
+
+    <string name="personal">Personal</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
